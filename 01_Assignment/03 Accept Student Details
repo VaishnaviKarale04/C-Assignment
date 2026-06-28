@@ -2,7 +2,6 @@
 #include<conio.h>
 
 int main()
-
     {
         char Name[10] = "Ajay" , Course[20] = "Computer Science", City[10] = "Pune";
         int RN = 1234;
