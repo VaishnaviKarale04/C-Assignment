@@ -14,4 +14,7 @@ int main()
         printf("\n Enter Course Scinece : %s",Course);
 
         printf("\n Enter City : %s",City);
+
+        getch();
+        return 0;
     }
