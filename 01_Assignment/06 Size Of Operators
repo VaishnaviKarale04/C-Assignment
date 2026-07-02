@@ -3,7 +3,6 @@
 
 int main()
     {
-
     double No = 0;
     char Name[20] = "";
 
@@ -28,5 +27,4 @@ int main()
 
     getch();
     return 0;
-
     }
