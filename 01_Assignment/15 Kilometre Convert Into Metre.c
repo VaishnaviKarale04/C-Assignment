@@ -10,7 +10,7 @@ int main()
 
         M = KM * 1000;
 
-        printf("\n Kilometre Convert into Metre is : %d", M);
+        printf("\n Kilometre Convert Into Metre Is : %d", M);
 
         getch();
         return 0;
