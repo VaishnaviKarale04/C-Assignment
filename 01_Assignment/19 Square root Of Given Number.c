@@ -12,7 +12,7 @@ int main()
 
        SquareR = sqrt(Num);
 
-       printf("\n Squaroot Of Given Number : %.2f", SquareR);
+       printf("\n Square Root Of Given Number : %.2f", SquareR);
 
        getch();
        return 0;
