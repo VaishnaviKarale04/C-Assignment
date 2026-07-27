@@ -10,7 +10,7 @@ int main()
 
     if (Num == 1)
     {
-        printf("\n The Day Of The Week Is : Monday ");
+        printf("\n The Day Of The Week Is : Monday");
     }
     else if (Num == 2)
     {
@@ -18,23 +18,23 @@ int main()
     }
     else if (Num == 3)
     {
-        printf("\n The Day Of The Week Is : Wednesday ");
+        printf("\n The Day Of The Week Is : Wednesday");
     }
     else if (Num == 4)
     {
-        printf("\n The Day Of The Week Is : Thursday ");
+        printf("\n The Day Of The Week Is : Thursday");
     }
     else if (Num == 5)
     {
-        printf("\n The Day Of The Week Is : Friday ");
+        printf("\n The Day Of The Week Is : Friday");
     }
     else if (Num == 6)
     {
-        printf("\n The Day Of The Week Is : Saturday ");
+        printf("\n The Day Of The Week Is : Saturday");
     }
     else if (Num == 7)
     {
-        printf("\n The Day Of The Week Is : Sunday ");
+        printf("\n The Day Of The Week Is : Sunday");
     }
     else
     {
