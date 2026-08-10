@@ -2,9 +2,9 @@
 #inclide<conio.h>
 
 int main()
-{
-  int 
+  {
+      int 
 
-  getch();
-  return 0;
-}
+      getch();
+      return 0;
+  }
