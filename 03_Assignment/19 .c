@@ -5,7 +5,7 @@ int main()
 {
   int 
 
-  
+
   getch();
   return 0;
 }
